@@ -15,5 +15,21 @@
     "createdAt": "2026-11-10T01:07:39.196Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home 2",
+    "seoTitle": "Attila | Stone, Kitchens, Furniture & Home — Melbourne",
+    "seoDescription": "The Attila Group — a Melbourne home & building group in Campbellfield. Natural stone & tiles, kitchens, furniture and a factory-direct home centre. Since 1997.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-11-10T01:15:14.893Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-10T01:15:14.893Z",
+    "createdBy": "derek"
   }
 ]
