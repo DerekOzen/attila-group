@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Attila | Stone, Kitchens, Furniture & Home — Melbourne",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-11-10T00:46:08.019Z",
+    "status": "published",
+    "updatedAt": "2026-11-10T00:46:16.995Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-10T00:46:08.019Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
