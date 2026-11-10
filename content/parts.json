@@ -32,7 +32,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap"
     ],
-    "updatedAt": "2026-11-10T01:07:37.021Z"
+    "updatedAt": "2026-11-10T01:16:17.110Z",
+    "deleted": true
   },
   {
     "id": "footer-2",
